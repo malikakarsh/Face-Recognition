@@ -1,6 +1,6 @@
 # Face-Recognition
 
-Requirements: 
+Required modules: 
   1) keras
   2) numpy
   3) cv2
