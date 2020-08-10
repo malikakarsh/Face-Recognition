@@ -17,6 +17,7 @@ if not os.path.isdir('DATA'):
     
 
 root = Tk()
+root.title("Face-Recognition")
 img_frame = LabelFrame(root, text = "Developed by Akarsh", width = 600, height = 500)
 img_frame.grid(row=0,column=0,rowspan = 2)
 
