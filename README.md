@@ -8,9 +8,17 @@ Requirements:
  To run: face_recog.py follow:
  
  1) Open terminal and redirect to Face_Recog directory and type in :"python3 face_recog.py"
- 2) Click on SCAN button and enter your name and click on VERIFY button:
+ 2) Click on SCAN button and enter your name:
  ![](Screenshots/ss1.png)
  
+ 3) Click on VERIFY button to start scanning your face
+ ![](Screenshots/ss2.png)
+ 
+ 4) After scanning click on TRAIN button to train the model:
+ ![](Screenshots/ss3.png)
+ 
+ 5) After training model, click on PREDICT button to predict on the face:
+ ![](Screenshots/ss4.png)
+ 
+
  NOTE:- Atleast scan two faces for results.
-        After scanning, click on TRAIN button to train the model
-        After training, Prediction can be made!
