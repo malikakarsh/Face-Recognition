@@ -1,7 +1,7 @@
 import cv2
 import sys
-from tkinter import *
 import os
+from tkinter import *
 import numpy as np
 from PIL import Image,ImageTk
 from keras.preprocessing.image import ImageDataGenerator
