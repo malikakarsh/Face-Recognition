@@ -1,8 +1,8 @@
 import cv2
 import sys
 import os
-from tkinter import *
 import numpy as np
+from tkinter import *
 from PIL import Image,ImageTk
 from keras.preprocessing.image import ImageDataGenerator
 from keras.applications import VGG16
