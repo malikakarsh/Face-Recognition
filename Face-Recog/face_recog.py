@@ -1,9 +1,9 @@
 import cv2
+import sys
 from tkinter import *
 import os
 import numpy as np
 from PIL import Image,ImageTk
-import sys
 from keras.preprocessing.image import ImageDataGenerator
 from keras.applications import VGG16
 from keras.layers import Dense,Flatten
