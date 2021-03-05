@@ -1,7 +1,7 @@
 # Face-Recognition
 
 ## Introduction
-Machine Learning script to predict on users face using CNN (Convolutional Neural Networks)
+Face-Recognition Machine Learning script to predict on users face using CNN (Convolutional Neural Networks)
 Required modules: 
   1) keras
   2) numpy
