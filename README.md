@@ -1,7 +1,7 @@
 # Face-Recognition
 
 ## Introduction
-Face-Recognition is a Machine Learning script to predict on users face using CNN (Convolutional Neural Networks).
+A Machine Learning script to detect a users face using haarcascade like feature and predict on users face using CNN (Convolutional Neural Networks).
 
 ## Required modules: 
   1) keras
